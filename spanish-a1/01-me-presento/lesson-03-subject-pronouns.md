@@ -126,7 +126,7 @@ Câu hỏi:
 3. Điền **ser**: **Nosotras ___ estudiantes.**
 4. Điền **ser**: **Ellos ___ de México.**
 5. Viết lại tự nhiên hơn bằng cách lược từ không cần thiết: **Yo soy ingeniero.**
-6. Chọn cách xưng hô và nói câu hỏi phù hợp khi hỏi một nhân viên lớn tuổi xem họ có phải là kỹ sư không.
+6. Chọn cách xưng hô và nói câu hỏi phù hợp khi hỏi một nhân viên trong tình huống cần sự lịch sự xem họ có phải là kỹ sư không.
 7. Giải thích bằng tiếng Việt sự khác nhau giữa **usted** và **ustedes**.
 8. Nói ba câu thành tiếng với **soy**, **es** và **son**.
 

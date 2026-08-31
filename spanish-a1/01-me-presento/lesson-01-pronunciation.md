@@ -28,7 +28,7 @@ Giữ âm ngắn, sạch; đừng biến một nguyên âm thành hai âm như �
 ### Một số chữ cần chú ý
 
 - **h** không phát âm: **hola**, **hablar**. Bắt đầu thẳng vào nguyên âm sau nó.
-- **j** có âm xát mạnh ở cổ họng, gần âm “kh”: **José**, **trabajo**. Đừng đọc như *j* tiếng Anh.
+- **j** có âm xát ở cổ họng, gần âm “kh”: **José**, **trabajo**. Ở một số vùng Mỹ Latinh, âm này nhẹ hơn và gần “h”. Đừng đọc như *j* tiếng Anh.
 - **ñ** gần “nh” trong tiếng Việt: **España**, **mañana**.
 - **ll / y**: trong phần lớn tiếng Tây Ban Nha Mỹ Latinh, người mới có thể đọc gần âm “y” trong “yes”: **yo**, **llamo**. Có khác biệt vùng miền, nhưng cách này đủ để giao tiếp.
 - **r / rr**: **r** giữa hai nguyên âm thường là một cú chạm lưỡi ngắn; **rr** mạnh và rung hơn: **pero** / **perro**. Chưa rung được **rr** vẫn có thể bắt đầu nói; hãy ưu tiên phân biệt âm ngắn và âm mạnh.
@@ -43,7 +43,9 @@ Hôm nay không học chia động từ. “Quy tắc” cần dùng là cách t
 2. Từ kết thúc bằng phụ âm khác: thường nhấn âm tiết cuối.
    - espa-**ÑOL**, ciu-**DAD**
 3. Dấu sắc cho biết nơi nhấn, kể cả khi khác hai quy tắc trên.
-   - Jo-**SÉ**, **DÍ**-as, Mé-**XI**-co
+   - Jo-**SÉ**, **DÍ**-as, **MÉ**-xi-co
+
+Trong **México**, dấu sắc trên **é** đánh dấu trọng âm ở âm tiết đầu: **MÉ-xi-co**.
 
 Mô hình thực hành: nhìn **chữ cuối → tìm dấu sắc → nhấn một âm tiết rõ hơn**, không cần hét hay kéo dài.
 

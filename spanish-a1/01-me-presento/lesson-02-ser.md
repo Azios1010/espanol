@@ -38,13 +38,13 @@ Ví dụ:
 |---|---|---|
 | tôi | **soy** | **Soy estudiante.** |
 | bạn (một người, thân mật) | **eres** | **¿Eres estudiante?** |
-| anh ấy / cô ấy / một người lịch sự | **es** | **Ella es mexicana.** |
+| anh ấy / cô ấy / một người lịch sự | **es** | **Ella es estudiante.** |
 | chúng tôi | **somos** | **Somos estudiantes.** |
 | họ / các bạn | **son** | **Son estudiantes.** |
 
 Không có một từ riêng tương đương “là” dùng cho mọi người. Hãy học theo cặp ý nghĩa: **tôi → soy**, **bạn → eres**, **một người khác → es**.
 
-**Recognition only:** **Ella** nghĩa là “cô ấy”. Bài 03 sẽ hệ thống hóa **ella** và các đại từ chủ ngữ khác; ở bài này, bạn chỉ cần hiểu **Ella es mexicana**.
+**Recognition only:** **Ella** nghĩa là “cô ấy”. Bài 03 sẽ hệ thống hóa **ella** và các đại từ chủ ngữ khác; ở bài này, bạn chỉ cần hiểu **Ella es estudiante**.
 
 ### Hỏi thông tin cơ bản
 
