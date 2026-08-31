@@ -89,7 +89,7 @@ Kiểm tra:
 - **h** trong **hola** có im lặng không;
 - **ll** trong **llamo** có được đọc nhất quán không;
 - **j** trong **José** và **ñ** trong **España/diseñador** có phân biệt được không;
-- trọng âm ở **José, España, mexicana, gracias** có hợp lý không.
+- trọng âm ở **Jo-SÉ, Es-PA-ña, mexi-CA-na, GRA-cias** có hợp lý không.
 
 ### Mini dialogue nghe–nói
 
@@ -203,7 +203,7 @@ Phần Writing dùng thông tin thật của người học; đối chiếu vớ
 
 ### Mini Test
 
-1. Tự kiểm theo phần Pronunciation / Listening. Ví dụ: **h** im lặng trong **hola**; **j** có âm xát trong **José**; **ñ** gần “nh”; **z** đọc như **s** theo chuẩn Mỹ Latinh; dấu sắc đánh dấu trọng âm.
+1. Tự kiểm theo phần Pronunciation / Listening. Trọng âm là **HO-la, Jo-SÉ, Es-PA-ña, ma-ÑA-na, a-ZUL**. Ví dụ về quy tắc/chữ: **h** im lặng trong **hola**; **j** có âm xát trong **José**; **ñ** gần “nh”; **z** đọc như **s** theo chuẩn Mỹ Latinh; dấu sắc trên **é** của **José** đánh dấu trọng âm.
 2. **soy; eres; es; somos; son**.
 3. **Usted es estudiante. / Ellos son de México.**
 4. **Soy vietnamita.** Có thể lược **yo** vì **soy** đã xác định người nói.
@@ -238,4 +238,4 @@ Nếu không đạt một mục READY hoặc đánh dấu một mục NEEDS REVI
 
 ## Next Lesson
 
-Khi đạt phần lớn tiêu chí READY, Unit 2 sẽ mở rộng “tấm thẻ giới thiệu” sang tuổi, thông tin liên lạc và gia đình. Chưa cần học trước; hãy củng cố lời giới thiệu Unit 1 trong vài lần ôn ngắn.
+Khi đạt phần lớn tiêu chí READY, Unit 2 sẽ bắt đầu với động từ hiện tại đều đuôi **-AR**, rồi **-ER** và **-IR**, để bạn sớm tự tạo câu về cuộc sống hằng ngày. Chưa cần học trước; hãy củng cố lời giới thiệu Unit 1 trong vài lần ôn ngắn.

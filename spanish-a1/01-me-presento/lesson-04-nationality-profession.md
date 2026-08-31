@@ -93,7 +93,7 @@ Chỉ chọn 2–3 nghề có liên quan đến bạn hoặc người quen để
 Dùng SpanishDict nghe: **Vietnam, vietnamita, España, española, México, mexicana, Estados Unidos, estadounidense, ingeniero, ingeniera, diseñador, diseñadora**.
 
 1. Nghe các cặp nam/nữ và đánh dấu phần giống nhau: **mexican-o / mexican-a**, **ingenier-o / ingenier-a**.
-2. Chú ý **ñ** trong **España/diseñador**, chữ **x** trong **México** có âm giống **j** đã học, và trọng âm ở **México, médico**.
+2. Chú ý **ñ** trong **España/diseñador**, chữ **x** trong **México** có âm giống **j** đã học, và trọng âm ở **MÉ-xi-co, MÉ-di-co**.
 3. Nhờ chế độ phát âm đọc ngẫu nhiên **mexicano/mexicana**, **ingeniero/ingeniera**, **diseñador/diseñadora**. Không nhìn chữ, đoán bạn nghe đuôi **-o** hay **-a**.
 4. Nói đuổi theo ba câu: **Soy vietnamita. / Ella es mexicana. / Soy estudiante.**
 
@@ -160,7 +160,7 @@ Chọn tối đa 6 thẻ phù hợp với đời bạn:
 
 ### Reading / Writing
 
-- Reading: (1) Mai đến từ Vietnam và là lập trình viên. (2) Carlos. (3) **médica**, vì câu nói về Ana. (4) Ví dụ: **Es de México. / Es mexicano... / Es de Argentina. / Es argentina...**
+- Reading: (1) Mai đến từ Vietnam và là lập trình viên. (2) Carlos. (3) **médica**, vì dạng nữ hòa hợp với Ana. (4) Ví dụ: **Es de México. / Es mexicano... / Es de Argentina. / Es argentina...**
 - Writing, phần hoàn thành: **Ella es mexicana y es ingeniera.**
 
 ### Mini Test
